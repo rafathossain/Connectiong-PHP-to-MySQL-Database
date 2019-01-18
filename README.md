@@ -19,7 +19,7 @@
 First of all you need to create a MySQL Database from you cPanel. At the time of database creation you will be asked for <b>Database Name, Database Username, Database Password</b>. Please enter all these information carefully and save them to use later.
 
 ### Creating the Connection
-To set up the connection between Database and the PHP file, you need to download <b>Database Configuration Package</b> and upload upload it to your cPanel File Manager. Now you need to edit some lines in <b>database_configuration.php</b> file. Open this file with any editor. You can also edit the file before uploading to cPanel.
+To set up the connection between Database and the PHP file, you need to download <a href="https://github.com/rafathossain96/Connectiong-PHP-to-MySQL-Database/releases/download/v1.0/Database-Config-Package.zip"><b>Database Configuration Package</b></a> and upload upload it to your cPanel File Manager. Now you need to edit some lines in <b>database_configuration.php</b> file. Open this file with any editor. You can also edit the file before uploading to cPanel.
 
 Here are the changes that you need in the configuration file.
 <br><br>
